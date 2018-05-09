@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {
+    cout << "antes";
  int a, b, c;
+ cout << "dps";
  while (cin >> a >> b >> c) {
  if (a > b && a > c) 
  {
