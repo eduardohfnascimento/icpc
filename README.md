@@ -1,2 +1,2 @@
 # ICPC
-Training to icpc competition and Desafios de programação
+* Training to icpc competition and Desafios de programação
